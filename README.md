@@ -5,14 +5,12 @@ A simple PHP-based CRUD (Create, Read, Update, Delete) application for managing 
 ## Table of Contents 📑
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Introduction 📖
 **CRUD User Management** provides basic user management features, serving as a solid starting point for learning or developing more complex PHP-based applications.
 
